@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ayuan/static/css/main.dc5ecae8.css",
-    "main.js": "/ayuan/static/js/main.3e920070.js",
+    "main.js": "/ayuan/static/js/main.892fbad5.js",
     "static/js/453.a6ffaaae.chunk.js": "/ayuan/static/js/453.a6ffaaae.chunk.js",
     "index.html": "/ayuan/index.html",
     "main.dc5ecae8.css.map": "/ayuan/static/css/main.dc5ecae8.css.map",
-    "main.3e920070.js.map": "/ayuan/static/js/main.3e920070.js.map",
+    "main.892fbad5.js.map": "/ayuan/static/js/main.892fbad5.js.map",
     "453.a6ffaaae.chunk.js.map": "/ayuan/static/js/453.a6ffaaae.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dc5ecae8.css",
-    "static/js/main.3e920070.js"
+    "static/js/main.892fbad5.js"
   ]
 }
